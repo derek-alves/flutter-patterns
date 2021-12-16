@@ -1,0 +1,1 @@
+export 'singleton/singleton.dart';
