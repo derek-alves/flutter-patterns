@@ -16,6 +16,7 @@ dependencies:
   sqflite: ^2.0.1
   path: ^1.8.0
   sqlite3: ^1.4.0
+  dio: ^4.0.4
 
 dev_dependencies:
   flutter_test:
